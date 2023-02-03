@@ -139,6 +139,9 @@ img {
     .row{
         display: block;
     }
-   
+   .steps .col, .lessons .col, div.col.col-left, div.col.col-right{
+        width: 100%;
+   }
+
 }
    
