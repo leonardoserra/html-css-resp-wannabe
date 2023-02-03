@@ -146,14 +146,24 @@ img {
    }
 
    .card{
-    padding:25px 0;
+        padding:25px 0;
    }
 
    h3{
-    padding:25px 0;
+        font-size: 2rem;
+        padding:25px 0;
    }
 
-  
+    .lessons .col img{
+        height: auto;
+   }
 
+   section {
+        margin:0;
+        padding:0;
+    }
+    section {
+        background-color: rgb(34, 34, 34);
+    }
 }
    
