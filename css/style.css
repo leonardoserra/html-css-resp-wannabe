@@ -140,7 +140,14 @@ img {
     .row{
         display: block;
     }
-   
+    .steps{
+        margin-bottom: 0;
+   }
+    .why-us{
+        margin-bottom: 0;
+        padding-top: 3em;
+        padding-bottom: 1rem;
+   }
     .steps .col, .lessons .col, div.col.col-left, div.col.col-right{
         width: 100%;
    }
