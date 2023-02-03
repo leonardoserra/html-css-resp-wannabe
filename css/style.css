@@ -158,11 +158,13 @@ img {
         height: auto;
    }
 
-   section {
+   .container{
         margin:0;
-        padding:0;
+   }
+   section  {
+        margin:0;
     }
-    section {
+    section.why-us.container{
         background-color: rgb(34, 34, 34);
     }
 }
