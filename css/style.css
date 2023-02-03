@@ -135,16 +135,8 @@ img {
      }
  }
 
- @media screen and (min-width: 480px) {
+ /* @media screen and (min-width: 480px) {
     
-    .row{
-        width: 100%;
-        flex-direction: column; 
-        align-items: center;
-    }
-
-    .steps .col img, .steps .col img{
-        width: 500px;
-    }
-}
+   
+} */
    
