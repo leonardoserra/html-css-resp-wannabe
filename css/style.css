@@ -136,12 +136,24 @@ img {
  }
 
  @media screen and (max-width: 480px) {
+    
     .row{
         display: block;
     }
-   .steps .col, .lessons .col, div.col.col-left, div.col.col-right{
+   
+    .steps .col, .lessons .col, div.col.col-left, div.col.col-right{
         width: 100%;
    }
+
+   .card{
+    padding:25px 0;
+   }
+
+   h3{
+    padding:25px 0;
+   }
+
+  
 
 }
    
