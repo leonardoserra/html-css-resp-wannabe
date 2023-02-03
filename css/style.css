@@ -142,6 +142,9 @@ img {
         flex-direction: column; 
         align-items: center;
     }
-   
+
+    .steps .col img, .steps .col img{
+        width: 500px;
+    }
 }
    
